@@ -35,7 +35,7 @@ When system version is iOS8 or later, Using PhotoKit.
 
 
 ##安装
-1. 命令行运行      ```cordova plugin add https://github.com/giantss/cordova-plugin-ImagePicker.git```
+1. 命令行运行      ```cordova plugin add https://git.oschina.net/leanit/cordova-plugin-ImagePicker.git```
 2. 命令行运行 cordova build --device
 
 ##android注意事项
