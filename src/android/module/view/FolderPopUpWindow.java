@@ -15,7 +15,7 @@ import android.widget.LinearLayout;
 import android.widget.ListView;
 import android.widget.PopupWindow;
 
-import io.cordova.qrcodeTraceMobile.R;
+import io.cordova.qrcodeTraceTzMobile.R;
 
 
 public class FolderPopUpWindow extends PopupWindow implements View.OnClickListener {

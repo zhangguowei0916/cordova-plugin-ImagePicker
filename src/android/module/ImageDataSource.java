@@ -14,7 +14,7 @@ import com.giants.imagepicker.bean.ImageItem;
 import java.io.File;
 import java.util.ArrayList;
 import java.util.List;
-import io.cordova.qrcodeTraceMobile.R;
+import io.cordova.qrcodeTraceTzMobile.R;
 
 
 public class ImageDataSource implements LoaderManager.LoaderCallbacks<Cursor> {

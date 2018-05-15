@@ -7,7 +7,7 @@ import android.widget.ImageView;
 import com.nostra13.universalimageloader.core.DisplayImageOptions;
 import com.nostra13.universalimageloader.core.ImageLoader;
 import com.nostra13.universalimageloader.core.ImageLoaderConfiguration;
-import io.cordova.qrcodeTraceMobile.R;
+import io.cordova.qrcodeTraceTzMobile.R;
 import org.xutils.image.ImageOptions;
 import org.xutils.x;
 

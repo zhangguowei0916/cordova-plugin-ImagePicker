@@ -11,7 +11,7 @@ import android.widget.CompoundButton;
 import android.widget.Toast;
 
 import com.giants.imagepicker.ImagePicker;
-import io.cordova.qrcodeTraceMobile.R;
+import io.cordova.qrcodeTraceTzMobile.R;
 import com.giants.imagepicker.bean.ImageItem;
 import com.giants.imagepicker.view.SuperCheckBox;
 

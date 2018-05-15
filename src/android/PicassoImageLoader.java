@@ -4,7 +4,7 @@ import android.app.Activity;
 import android.net.Uri;
 import android.widget.ImageView;
 
-import io.cordova.qrcodeTraceMobile.R;
+import io.cordova.qrcodeTraceTzMobile.R;
 import com.giants.imagepicker.loader.ImageLoader;
 import com.squareup.picasso.MemoryPolicy;
 import com.squareup.picasso.Picasso;
